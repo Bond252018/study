@@ -1,0 +1,6 @@
+:root {
+    --text-color: #000000;
+    --red-color: #e30613;
+    --buttos-color: var(--red-color);
+    --background-section: #ededed;
+}

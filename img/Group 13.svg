@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_13" width="42.222" height="50.161" data-name="Group 13" viewBox="0 0 42.222 50.161">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{stroke:#e30613;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Path_6" d="M0-54.125h42.222v-50.161H0z" class="cls-1" data-name="Path 6" transform="translate(0 104.286)"/>
+        </clipPath>
+    </defs>
+    <g id="Group_12" class="cls-2" data-name="Group 12">
+        <g id="Group_11" data-name="Group 11" transform="translate(.962 .962)">
+            <path id="Path_5" d="M-43.482-30.308a20.149 20.149 0 0 1-20.149 20.149A20.149 20.149 0 0 1-83.78-30.308a20.149 20.149 0 0 1 20.149-20.149 20.149 20.149 0 0 1 20.149 20.149zm-21.188 2l-1.1 1.931m4.178-2.833a2.224 2.224 0 0 1-3.034.829 2.224 2.224 0 0 1-.829-3.034 2.225 2.225 0 0 1 3.034-.829 2.224 2.224 0 0 1 .826 3.039zm4.636-12.608l-5.454 9.554M-67.962-58.4h8.9m-4.448.53v3.759m-.117 6.81v.009m0 32.513v.008M-79.9-31.032h.008m32.513 0h.009m-24.4-14.086v.007m16.27 28.157v.007M-77.717-22.9h.007m28.157-16.256h.007m-28.171 0h.007M-49.553-22.9h.007m-22.218 5.953v-.007M-55.5-45.111v-.007" class="cls-3" data-name="Path 5" transform="translate(83.78 58.396)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.014" height="52.539" viewBox="0 0 61.014 52.539">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#c90c0f;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="Group_48" data-name="Group 48" transform="translate(-606.868 -103.198)">
+        <path id="Path_19" d="M674.155 361.4v25.517a3.675 3.675 0 0 1-3.675 3.675h-50.216a3.675 3.675 0 0 1-3.675-3.675V361.5" class="cls-1" data-name="Path 19" transform="translate(-7.997 -235.861)"/>
+        <path id="Path_20" d="M633.683 207.238l-25.816-8.127v-11.755a2.754 2.754 0 0 1 2.754-2.754h53.506a2.754 2.754 0 0 1 2.754 2.754v11.755l-25.872 8.076" class="cls-1" data-name="Path 20" transform="translate(0 -73.731)"/>
+        <path id="Rectangle_15" d="M0 0h7.31v9.406H0z" class="cls-1" data-name="Rectangle 15" transform="translate(633.72 129.882)"/>
+        <path id="Path_21" d="M831.716 110.777V106.4a2.205 2.205 0 0 1 2.205-2.205h17.448a2.205 2.205 0 0 1 2.205 2.205v4.3" class="cls-1" data-name="Path 21" transform="translate(-205.27)"/>
+    </g>
+</svg>
